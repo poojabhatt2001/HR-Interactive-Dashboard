@@ -17,7 +17,7 @@ The overall objective of this project is to create a comprehensive, interactive 
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic
-  ## Insight
+## Insight
   - Workforce Stability: The largest employment status group is Full-Time (20 employees), suggesting a stable core workforce, but the Contract (17 employees) group     is nearly as large, indicating significant reliance on contingent staff.
   - Gender Parity: The split between Males (52%) and Females (48%) is nearly equal, suggesting strong gender balance in the overall headcount.
   
