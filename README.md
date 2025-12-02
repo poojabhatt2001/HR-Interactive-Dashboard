@@ -22,6 +22,6 @@ The overall objective of this project is to create a comprehensive, interactive 
   - Gender Parity: The split between Males (52%) and Females (48%) is nearly equal, suggesting strong gender balance in the overall headcount.
   
   ## Dashboard
-<img width="1333" height="823" alt="Screenshot 2025-12-02 210902" src="https://github.com/user-attachments/assets/b02bb1be-64a7-45e5-9d76-91abaeb676c9" />
+<img width="1341" height="887" alt="Screenshot 2025-12-02 220953" src="https://github.com/user-attachments/assets/451ac191-71a7-41c4-bd5b-2611f93fb331" />
 
 
