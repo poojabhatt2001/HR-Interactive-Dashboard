@@ -11,7 +11,7 @@ The overall objective of this project is to create a comprehensive, interactive 
 - Skills and Capability
 - Performance and Compensation
 - Geographic and Work Location
- - Dashboard Interaction <a href="(https://github.com/poojabhatt2001/HR-Interactive-Dashboard/blob/main/Screenshot%202025-12-02%20220953.png)"> View Dashboard </a>
+ - Dashboard Interaction <a href="https://github.com/poojabhatt2001/HR-Interactive-Dashboard/blob/main/Screenshot%202025-12-02%20220953.png"> View Dashboard </a>
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
