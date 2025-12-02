@@ -11,7 +11,7 @@ The overall objective of this project is to create a comprehensive, interactive 
 - Skills and Capability
 - Performance and Compensation
 - Geographic and Work Location
- - Dashboard Interaction <a href="https://github.com/poojabhatt2001/HR-Interactive-Dashboard/blob/main/Screenshot%202025-12-02%20220953.png"> View Dashboard </a>
+ - Dashboard Interaction <a href="https://github.com/poojabhatt2001/HR-Interactive-Dashboard/blob/main/Screenshot%202025-12-02%20221940.png"> View Dashboard </a>
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
@@ -22,6 +22,7 @@ The overall objective of this project is to create a comprehensive, interactive 
   - Gender Parity: The split between Males (52%) and Females (48%) is nearly equal, suggesting strong gender balance in the overall headcount.
   
   ## Dashboard
-<img width="1341" height="887" alt="Screenshot 2025-12-02 220953" src="https://github.com/user-attachments/assets/451ac191-71a7-41c4-bd5b-2611f93fb331" />
+<img width="1362" height="876" alt="Screenshot 2025-12-02 221940" src="https://github.com/user-attachments/assets/c500131c-e95d-4dee-89f7-f4f06e71f165" />
+
 
 
