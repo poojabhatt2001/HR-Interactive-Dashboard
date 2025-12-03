@@ -1,5 +1,5 @@
-# HR-Interactive-Dashboard
-I developed a comprehensive project in Excel using multiple dashboard and table to analyze the data. This process involves several stages  data processing , data manipulation, data visualization.
+## HR-Interactive-Dashboard
+# I developed a comprehensive project in Excel using multiple dashboard and table to analyze the data. This process involves several stages  data processing , data manipulation, data visualization.
 
 ## Project Objective
 The overall objective of this project is to create a comprehensive, interactive monitoring and analysis tool for Human Resources performance and planning.The main goal is to shift HR analysis from static reports to a dynamic, visual system to enable data-driven decision.
